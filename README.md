@@ -55,6 +55,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Real-time streaming showdown | Sherif Behna | [PDF](2026-02-26/streaming_spark_flink-sherif_behna.pdf) |
 | AI Assemble! Build your own private Development Team | Heath Kesler | [PDF](2026-02-26/AI_Assemble_Build_your_own_private_Development_Team-Heath_Kesler.pdf) |
 | From the Crypt to the Code | Ramona Schwering | [PDF](2026-02-26/crypt_to_code-ramona_schwering.pdf),[GitHub](https://github.com/leichteckig/login-a11y) |
+| Insights on Context & Memory for a Supportive Assistant | [Cedric L'homme](https://github.com/rangzen) | [PDF](2026-02-26/insights_on_context_and_memory_for_a_supportive_assistant-cedric_lhomme.pdf) |
 
 ## February 27
 
