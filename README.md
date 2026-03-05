@@ -34,6 +34,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Learn to develop at WARP speed! | Heath Kesler | [PDF](2026-02-25/Learn_to_Develop_at_WARP_Speed-Heath_Kesler.pdf) |
 | The cake is a lie... and so is your login's accessibility | Ramona Schwering | [PDF](2026-02-25/cake_is_a_lie-ramona_schwering.pdf),[GitHub](https://github.com/leichteckig/login-a11y) |
 | From Dev to Lead: Guiding Without Managing | [Erik Beaulieu](https://www.linkedin.com/in/erik-beaulieu/) | [PDF](2026-02-25/Dev-To-Lead_Guiding-Without-Managing_ErikBeaulieu.pdf) |
+| The Fellowship of Twig | Stephan Hochdörfer | [PDF](2026-02-25/the_fellowship_of_twig-stephan_hochdoerfer.pdf) |
 
 ## February 26
 
@@ -63,7 +64,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Can We Use AI with .NET? | Frank Boucher | [PDF](2026-02-26/can_we_use_AI_with_dotnet-frank_boucher.pdf) , [GitHub](https://github.com/reka-ai/api-examples-dotnet/blob/main/csharp10-script/README.md) |
 | Full Stack AI Security | [Jonathan Marcil](https://about.jonathanmarcil.ca/) | [PDF](2026-02-26/Full_Stack_AI_Security-Jonathan_Marcil.pdf) |
 | How we failed at Event Sourcing | Louis Beaudoin-Allaire | [PDF](2026-02-26/how_we_failed_at_event_sourcing-louis_beaudoin_allaire.pdf) |
-
+| Enhancing your customers' search experience with Gally | Stephan Hochdörfer | [PDF](2026-02-26/enhancing_your_customers_search_experience_with_gally-stephan_hochdoerfer.pdf) |
 
 ## February 27
 
