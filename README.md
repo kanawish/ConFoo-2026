@@ -56,7 +56,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | EdgeAI on Mobile | Mathieu Fillion | [PDF](2026-02-26/EdgeAI%20on%20Mobile%20-%20MathieuFillion.pdf) |
 | Building PHP Applications with the Symfony Framework in 2026 | David Buchmann | [HTML](2026-02-26/david-buchmann-building-php-symfony.html) |
 | Ramping up on Llama Stack for developing AI applications | Michael Dawson | [PDF](2026-02-26/Ramping_up_on_Llama_Stack_for_developing_AI_applications-michael_dawson.pdf) |
-| Building a supply chain attack with .NET and NuGet | Maarten Balliauw | [PDF](2026-02-26/supplychain_maarten-balliauw.pdf) |          
+| Building a supply chain attack with .NET and NuGet | Maarten Balliauw | [PDF](2026-02-26/supplychain_maarten-balliauw.pdf) |
 | OpenTelemetry & Spring Boot | Xavier Bouclet | [PDF](2026-02-26/opentelemetry-&-Spring-Boot.pdf) |
 | Real-time streaming showdown | Sherif Behna | [PDF](2026-02-26/streaming_spark_flink-sherif_behna.pdf) |
 | AI Assemble! Build your own private Development Team | Heath Kesler | [PDF](2026-02-26/AI_Assemble_Build_your_own_private_Development_Team-Heath_Kesler.pdf) |
@@ -71,6 +71,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Simplifying Observability | Peter Zaitsev | [PDF](2026-02-26/simplifying_observability-peter_zaitsev.pdf) |
 | Enhancing your customers' search experience with Gally | Stephan Hochdörfer | [PDF](2026-02-26/enhancing_your_customers_search_experience_with_gally-stephan_hochdoerfer.pdf) |
 | SQLite: more powerful than you think | Mikaël Francoeur  | [PDF](2026-02-26/Mikael_Francoeur_SQLite.pdf)|
+| No Frameworks for Old Devs | Simon MacDonald  | [PDF](2026-02-26/No_Frameworks_for_Old_Devs-Simon_MacDonald.pdf)|
 
 
 ## February 27
